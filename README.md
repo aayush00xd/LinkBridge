@@ -77,7 +77,7 @@ npm start
 ```
 
 The application will be available at:
-- Frontend: http://localhost:3000
+- Frontend: http://localhost:3001
 - Backend: http://localhost:8000
 
 ## Project Structure
